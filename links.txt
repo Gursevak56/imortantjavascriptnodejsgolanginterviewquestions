@@ -1,0 +1,4 @@
+https://javascriptcentric.medium.com/top-30-javascript-interview-questions-and-answers-for-2024-7f1e2d1d0638   //javascript top 30 questions
+https://medium.com/@codingwinner/33-concepts-every-javascript-developer-should-know-ef225a72ed7f      //javascript top 33 questions
+https://javascriptcentric.medium.com/top-50-nodejs-interview-questions-and-answers-for-2024-5e460dac7852       //top 50 nodejs interview questions
+https://dsysd-dev.medium.com/20-beginner-golang-interview-questions-and-answers-de4ec7108ee              //top 20 golang interview questions
